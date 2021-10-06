@@ -11,3 +11,4 @@ from this registry.
 
 [packages]
 b172bcd2-82ed-11e9-108e-f9294c34b9e6 = { name = "KernelMatrices", path ="K/KernelMatrices" }
+97caf2bd-9cc0-4738-8821-c8999f46f3c9 = { name = "Slepians", path ="S/Slepians" }

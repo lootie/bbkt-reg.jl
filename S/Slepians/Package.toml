@@ -1,0 +1,4 @@
+name = "Slepians"
+uuid = "97caf2bd-9cc0-4738-8821-c8999f46f3c9"
+authors = ["Charlotte Haley <haleycharlotte@gmail.com>"]
+repo = "https://github.org/lootie/Slepians.jl.git"
