@@ -1,4 +1,3 @@
 name = "KernelMatrices"
 uuid = "b172bcd2-82ed-11e9-108e-f9294c34b9e6"
-authors = ["Chris Geoga <cgeoga@protonmail.com>"]
 repo = "https://bitbucket.org/cgeoga/KernelMatrices.jl.git"
