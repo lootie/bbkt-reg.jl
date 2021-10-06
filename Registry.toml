@@ -1,6 +1,6 @@
-name = "Test"
+name = "bbkt-reg"
 uuid = "e6038f6e-b188-4f2e-b929-9960538f95c7"
-repo = "https://github.com/JuliaRegistries/Test.git"
+repo = "https://github.com/JuliaRegistries/bbkt-reg.jl.git"
 
 description = """
 Registry for testing purposes only.
@@ -10,5 +10,4 @@ from this registry.
 """
 
 [packages]
-7876af07-990d-54b4-ab0e-23690620f79a = { name = "Example", path = "E/Example" }
-682c06a0-de6a-54ab-a142-c8b1cf79cde6 = { name = "JSON", path = "J/JSON" }
+b172bcd2-82ed-11e9-108e-f9294c34b9e6 = { name = "KernelMatrices", path ="K/KernelMatrices" }
